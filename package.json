@@ -1,0 +1,11 @@
+{
+  "name": "full-stack-server-example",
+  "version": "1.0.0",
+  "description": "Server-side part of our full stack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nancy Kolde",
+  "license": "ISC"
+}
